@@ -1,0 +1,9 @@
+{
+    "name": "Awesome Theme",
+    "description": "Story CMS awesome theme",
+    "author": "Story",
+    "autoload": ["helpers.php"]
+}
+
+
+
