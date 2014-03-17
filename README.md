@@ -1,1 +1,1 @@
-# Utilizing Laravel's Orchestra Platform
+# Extending Orchestra's Story CMS capabilities
